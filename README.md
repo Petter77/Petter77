@@ -1,13 +1,13 @@
 ## `whoami`
 
 Software Engineering student @ **Politechnika Wrocławska** (MSc Intelligent Control Systems).  
-I build things close to the metal and care about understanding systems — not just using them.
+I build things close to the metal and care about understanding systems - not just using them.
 
-- 🔧 Main stack: **C / C++ / Java / Python / Node.js**
-- 🐧 Daily driver: **Arch Linux** + **Neovim**
-- 🌐 Certified: **CCNA / Some Boot.dev courses**
-- 🎯 Looking for: **C/C++ / DevOps / Backend** roles
-- 📍 Based in **Wrocław, Poland**
+-  Main stack: **C / C++ / Java / Python / Node.js**
+-  Daily driver: **Arch Linux** + **Neovim**
+-  Certified: **CCNA / Some Boot.dev courses**
+-  Looking for: **C/C++ / DevOps / Backend** roles
+-  Based in **Wrocław, Poland**
 
 ---
 
