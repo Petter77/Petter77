@@ -26,10 +26,10 @@ I build things close to the metal and care about understanding systems — not j
 
 | Project | Stack | Description |
 |---|---|---|
-| 🧬 [TSP Genetic Solver](https://github.com/) | `C` | Traveling Salesman solved via custom genetic algorithm |
+| 🧬 [TSP Genetic Solver](https://github.com/genetic-tsp-solver) | `C` | Traveling Salesman solved via custom genetic algorithm |
 | 💻 [pshell](https://github.com/pshell) | `C` | Unix shell implementation - pipes, redirections, builtins |
-| 🛠 [ITForge](https://github.com/) | `Node.js · React · PostgreSQL` | Full-stack project management app - bachelor's thesis |
-| 🔍 [Job Scraper](https://github.com/) | `Java · Spring Boot` | Web scraper aggregating IT job listings |
+| 🛠 [ITForge](https://github.com/itforge) | `Node.js · React · PostgreSQL` | Full-stack project management app - bachelor's thesis |
+| 🔍 [Job Scraper](https://github.com/jobscraper) | `Java · Spring Boot` | Web scraper aggregating IT job listings |
 
 ---
 
