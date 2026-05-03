@@ -27,20 +27,19 @@ I build things close to the metal and care about understanding systems — not j
 | Project | Stack | Description |
 |---|---|---|
 | 🧬 [TSP Genetic Solver](https://github.com/) | `C` | Traveling Salesman solved via custom genetic algorithm |
-| 💻 [pshell](https://github.com/pshell) | `C` | Unix shell implementation — pipes, redirections, builtins |
-| 🛠 [ITForge](https://github.com/) | `Node.js · React · PostgreSQL` | Full-stack project management app — bachelor's thesis |
+| 💻 [pshell](https://github.com/pshell) | `C` | Unix shell implementation - pipes, redirections, builtins |
+| 🛠 [ITForge](https://github.com/) | `Node.js · React · PostgreSQL` | Full-stack project management app - bachelor's thesis |
 | 🔍 [Job Scraper](https://github.com/) | `Java · Spring Boot` | Web scraper aggregating IT job listings |
-| 🎵 [Chord Recognition](https://github.com/) | `Python · scikit-learn` | ML system identifying 24 chord classes from audio |
 
 ---
 
 ## `cat skills.txt`
 
 ```
-Languages   │ C  C++  Java  Python  JavaScript/TypeScript  SQL  Bash
-Frameworks  │ Spring Boot  Node.js/Express  React  FastAPI
-Infra/Tools │ Linux  Docker  Git  PostgreSQL  AWS Lambda
-Editors     │ Neovim  (yes, btw)
+Languages   │ C  C++  Python  Java  SQL  Bash
+Frameworks  │ FastAPI  Spring Boot
+Infra/Tools │ Linux  Docker  Git  PostgreSQ
+Editors     │ Neovim  Visual Studio Code
 ```
 
 ---
@@ -49,10 +48,10 @@ Editors     │ Neovim  (yes, btw)
 
 ```
 PID   PROCESS              CPU%   STATUS
-001   systems-programming  ████░  running
-002   neovim-config        ███░░  running  
-003   job-hunting          ██░░░  running
-004   gym (PPL)            █░░░░  running
+001   systems-programming    ████░  running
+002   music theory learning  ███░░  running
+003   job-hunting            ██░░░  running
+004   gym (PPL)              █░░░░  running
 ```
 
 ---
@@ -67,11 +66,3 @@ a1f88e2  watching films with actual craft in them
 9e023c7  building things that work correctly, then fast
 ```
 
----
-
-## `contact`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patryk-pawlinski)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](ppawlinski77@gmail.com)
-
----
