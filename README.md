@@ -15,10 +15,10 @@ I build things close to the metal and care about understanding systems — not j
 
 | Project | Stack | Description |
 |---|---|---|
-| 🧬 [TSP Genetic Solver](https://github.com/genetic-tsp-solver) | `C` | Traveling Salesman solved via custom genetic algorithm |
-| 💻 [pshell](https://github.com/pshell) | `C` | Unix shell implementation - pipes, redirections, builtins |
-| 🛠 [ITForge](https://github.com/itforge) | `Node.js  React  PostgreSQL` | Full-stack project management app - bachelor's thesis |
-| 🔍 [Job Scraper](https://github.com/jobscraper) | `Java  Spring Boot` | Web scraper aggregating IT job listings |
+| 🧬 [TSP Genetic Solver](https://github.com/petter7/genetic-tsp-solver) | `C` | Traveling Salesman solved via custom genetic algorithm |
+| 💻 [Myshell](https://github.com/petter77/pshell) | `C` | Unix shell implementation - pipes, redirections, builtins |
+| 🛠 [ITForge](https://github.com/petter77/itforge) | `Node.js  React  PostgreSQL` | Full-stack project management app - bachelor's thesis |
+| 🔍 [Job Scraper](https://github.com/petter77/jobscraper) | `Java  Spring Boot` | Web scraper aggregating IT job listings |
 
 ---
 
