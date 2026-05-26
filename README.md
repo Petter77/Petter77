@@ -3,10 +3,10 @@
 Software Engineering student @ **Politechnika Wrocławska** (MSc Intelligent Control Systems).  
 I build things close to the metal and care about understanding systems - not just using them.
 
--  Main stack: **C / C++ / Java / Python / Node.js**
+-  Main stack: **C / C++ / Python**
 -  Daily driver: **Arch Linux** + **Neovim**
 -  Certified: **CCNA / Some Boot.dev courses**
--  Looking for: **C/C++ / DevOps / Backend** roles
+-  Looking for: **C/C++** roles
 -  Based in **Wrocław, Poland**
 
 ---
@@ -25,9 +25,9 @@ I build things close to the metal and care about understanding systems - not jus
 ## `cat skills.txt`
 
 ```
-Languages   │ C  C++  Python  Java  SQL  Bash
-Frameworks  │ FastAPI  Spring Boot
-Infra/Tools │ Linux  Docker  Git  PostgreSQ
+Languages   │ C  C++  Python  SQL  Bash
+Frameworks  │ FastAPI
+Infra/Tools │ Linux  Git  PostgreSQ
 Editors     │ Neovim  Visual Studio Code
 ```
 
