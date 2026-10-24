@@ -27,7 +27,7 @@ I build things close to the metal and care about understanding systems - not jus
 ```
 Languages   │ C  C++  Python  SQL  Bash
 Frameworks  │ FastAPI
-Infra/Tools │ Linux  Git  PostgreSQ
+Infra/Tools │ Linux  Git  PostgreSQL
 Editors     │ Neovim  Visual Studio Code
 ```
 
